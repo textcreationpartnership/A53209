@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Office for penitents, or, A form of prayer fit to be used in sinful and distracted times</title>
+         </titleStmt>
+         <extent>Approx. 48KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53209</idno><idno type="EEBO-CITATION">12562638</idno>
+  <idno type="VID">63270</idno>
+  <idno type="EEBO-PROQUEST">2248585264</idno>
+  
+            <idno type="STC">Wing O146</idno>
+            <idno type="STC">ESTC R20335</idno>
+            <idno type="OCLC">12562638</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A53209)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63270)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 326:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Office for penitents, or, A form of prayer fit to be used in sinful and distracted times</title>
+               </titleStmt>
+               <extent>[5], 56, [3] p. : port.  </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prayers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:63270:1"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of a man</figDesc>
+                  <p>
+                     <hi>John Ashton Gent:</hi>
+                  </p>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:63270:1"/>
+            <p>AN OFFICE FOR PENITENTS.</p>
+            <p>OR, A <hi>FORM</hi> of <hi>PRAYER</hi> Fit to be used in <hi>Sinful and Distracted</hi> TIMES.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1691.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:63270:2"/>
+            <pb facs="tcp:63270:2"/>
+            <head>TO THE Devout Reader.</head>
+            <p>THis short Office was drawn up with true and sincere Intentions to promote the Interests of decayed and despised Piety and Religion; the Forms are for the most part taken out of the holy Scriptures, because we cannot speak to God in more acceptable terms than those which his blessed Spirit hath dictated; and it is divided into several Sections, so as the penitent Suppliant, when he is hindered from using the whole Of<g ref="char:EOLhyphen"/>fice at one and the same time, may, as his Needs engage him, or his Prudence shall direct, use such
+<pb facs="tcp:63270:3"/>Collects as his Mind shall inci<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e him to, or his Leasure will per<g ref="char:EOLhyphen"/>mit; and what cannot be perfor<g ref="char:EOLhyphen"/>med at once, may give employment to the several Canonical Hours of Prayer; in which space of Time the Prayers may be once, or oftner used, as God shall influence the Soul by his holy Spirit; and may that blessed Spirit, that prays in us, and for us, assist us in all our holy Performances, till we change this World of Sin and Misery for the Society of our only Mediator and Advocate in Heaven.</p>
+            <closer>Amen. Amen.</closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="section">
+            <pb n="1" facs="tcp:63270:3"/>
+            <head>SECT. I. <hi>Adoration</hi>
+            </head>
+            <div n="1" type="subsection">
+               <head>§ 1. <hi>Of God's Majesty.</hi>
+               </head>
+               <p>BLessed, O Lord,
+<note place="margin">Nehem. 9.5, 6.</note> be thy glorious Name, which is far exalted above all bles<g ref="char:EOLhyphen"/>sing and praise.</p>
+               <p>Thou, even thou, art God alone; thou hast made Heaven, the Heaven of Heavens, with all their Host, the Earth, and all Things that are therein, the Sea, and all that is therein, and thou preservest them, and all worship thee.</p>
+               <p>All that is in Heaven,
+<note place="margin">1 Chron. 29.11.</note> and in Earth, is thine: Thine is the
+<pb n="2" facs="tcp:63270:4"/>Kingdom, and thou art exalted as Head above all.</p>
+               <p>For this thy greatness thou art to be adored,
+<note place="margin">Nahum 1.4.</note> and had in reverence; which is such, that the Mountains quake, and the Hills melt, at thy Presence; that Heaven and Earth fly away from thy Face,
+<note place="margin">Rev. 20.11.</note> and there is no Place for them.</p>
+            </div>
+            <div n="2" type="subsection">
+               <head>§ 2. <hi>Of God's Justice.</hi>
+               </head>
+               <p>Upon this Consideration our Flesh trembleth,
+<note place="margin">Psal. 119.120.</note> and we Sin<g ref="char:EOLhyphen"/>ners, who have so many ways provoked thy Wrath, are afraid of thy Judgments.</p>
+               <p>For who can stand in thy sight when thou art angry?
+<note place="margin">Psal. 76.7.</note>
+               </p>
+               <p>Who can stand before thine Indignation?
+<note place="margin">Nahum. 1.6.</note> Who can abide the fierceness of thine Anger?</p>
+               <pb n="3" facs="tcp:63270:4"/>
+               <p>Who shall not fear,
+<note place="margin">Rev. 15.4.</note> for thou art holy?</p>
+               <p>Our Loyns are filled with pain, our Hearts pant, being very sensible,
+<note place="margin">Heb. 10.31.</note> that it is a fear<g ref="char:EOLhyphen"/>ful Thing to fall into the Hands of the Living God; and being very apprehensive that justly we may, because we have grie<g ref="char:EOLhyphen"/>vously offended him.</p>
+            </div>
+            <div n="3" type="subsection">
+               <head>§ 3. <hi>Of God's Mercy.</hi>
+               </head>
+               <p>But there is Mercy with thee,
+<note place="margin">Psal. 130.4.</note> as well as Greatness, Justice, and Power, that thou may'st be fea<g ref="char:EOLhyphen"/>red. So feared as at the same time we may love thee, and hope in thee.</p>
+               <p>In confidence of finding this Mercy, which is always open to Sinners imploring it, (if
+<pb n="4" facs="tcp:63270:5"/>withal they humbly confess their Sins, utterly loath and abhor them, and firmly resolve to forsake them) we come at this present to spread our Sins before thee, from whom they cannot be hid, and with shame covering our Faces earnestly to beg of thee, that thou would'st blot them out of thy Remem<g ref="char:EOLhyphen"/>brance, and hide thy Face from them, cast them behind thy Back,
+<note place="margin">Mic. 7.19.</note> cast them into the depths of the Sea, never to rise up against us.</p>
+            </div>
+         </div>
+         <div n="2" type="section">
+            <pb n="5" facs="tcp:63270:5"/>
+            <head>SECT. II. <hi>Confession of Sins.</hi>
+            </head>
+            <p>RIghteous art thou, O Lord,
+<note place="margin">Jer. 14.20.</note> but we have rebelled a<g ref="char:EOLhyphen"/>gainst thee. O Lord,
+<note place="margin">Dan. 9.5, 6.</note> great and dreadful God, we have sin<g ref="char:EOLhyphen"/>ned and dealt wickedly, and have rebelled by departing from thy Precepts, and thy Judg<g ref="char:EOLhyphen"/>ments. Our Kings, our Princes,
+<note place="margin">Neh. 9.34, 35.</note> our Fathers, our Priests, and all the People of the Land.</p>
+            <p>With our own Wickedness we acknowledge that of our Fore<g ref="char:EOLhyphen"/>fathers,
+<note place="margin">Neh. 9.29.</note> that neither they nor we have obeyed the Voice of the Lord our God, but have dealt proudly, and hardened our Necks against thy Word.</p>
+            <pb n="6" facs="tcp:63270:6"/>
+            <p>O Lord,
+<note place="margin">Dan. 9.7.</note> Righteousness be<g ref="char:EOLhyphen"/>longeth unto thee, but unto us Confusion of Face; to our <hi>KINGS,</hi> our <hi>PRINCES,</hi> our <hi>FATHERS,</hi> our <hi>PRIESTS,</hi> and all the People of the Land, because we have sinned against thee.
+<note place="margin">Isa. 1.6.</note> We are full of Bruises, and putrifying Sores, from the Crowns of our Heads to the Soles of our Feet, so that there is no sound part in us.</p>
+            <p>Our Hands are defiled with Bloud,
+<note place="margin">Isa. 59.3, &amp;c.</note> and our Fingers with Iniquity: Our Lips have spoken Lyes; our Tongues have mut<g ref="char:EOLhyphen"/>tered Perverseness; our Feet have run to Evil, and made haste to shed innocent Blood; Wasting and Destruction have been in our Paths, our Works have been Works of Iniquity; the act of Violence hath been in our hands.</p>
+            <pb n="7" facs="tcp:63270:6"/>
+            <p>Instead of loving thee, our Lord and God, with all our Mind, with all our Heart, with all our Soul, with all our Strength, which is our reasona<g ref="char:EOLhyphen"/>ble Duty, we have industriously offended against thee with our Faculties, Powers, Affections, Senses.</p>
+            <p>Our Thoughts have been Thoughts of Iniquity;
+<note place="margin">Isa. 59.4, &amp;c.</note> we have conceived Mischief, and brought forth Iniquity.</p>
+            <p>We have done Evil earnest<g ref="char:EOLhyphen"/>ly with both Hands; we have drunk Iniquity like Water; we have run into Sin with fierce<g ref="char:EOLhyphen"/>ness, even with that fierceness as the Horse at the sound of the Trumpet, or the ratling of the Spear rusheth into the Bat<g ref="char:EOLhyphen"/>tle, so that nothing hath been able to stop us in our Carreer; neither the Voice of thy Word
+<pb n="8" facs="tcp:63270:7"/>sounding in our Ears, nor of thy Rod lying on our Backs.</p>
+            <p>Though thou hast lifted up an Ensign,
+<note place="margin">Isa. 18.3.</note> and blown the Trumpet, we have neither seen nor heard;
+<note place="margin">Amos 3.8.</note> when the Lyon hath roared we have not been afraid.</p>
+            <p>Neither the Monitions of thy good Spirit, nor the Checks of our own Consciences have been of any force to turn us out of the way of Wickedness.</p>
+            <p>Our Provocations have been and are many, and enormous; <hi>Professed Atheism, Open Pro<g ref="char:EOLhyphen"/>phaness, Customary Swearing, Solemn and Deliberate Perjury, Pharisaical Hypocrisie,</hi> conten<g ref="char:EOLhyphen"/>ting our selves with the exter<g ref="char:EOLhyphen"/>nal Form of Godliness while we deny the Power thereof,
+<note place="margin">Isa. 29.13.</note> drawing near to thee with our Lips while our Hearts are far
+<pb n="9" facs="tcp:63270:7"/>from thee;
+<note place="margin">Ezek. 33.31.</note> coming before thee as thy People cometh, and sit<g ref="char:EOLhyphen"/>ting before thee as thy People doth, and hearing thy Words, but not doing them; <hi>Pride, Ambition, Disobedience to our Lawful Superiors, Rebellion a<g ref="char:EOLhyphen"/>gainst thy Anointed ones, Bloud-guiltiness;</hi>
+               <note place="margin">Lam. 4.13.</note> the Bloud of the Just hath been shed in the midst of us, the Bloud of the Inno<g ref="char:EOLhyphen"/>cent hath been shed in our Skirts:</p>
+            <p>
+               <hi>Adultery,</hi>
+               <note place="margin">Jer. 5.7, 8.</note> Assembling our selves by Troops in Harlots Houses, and like fed Horses neighing after our Neighbours Wives; <hi>Luxury,</hi>
+               <note place="margin">Rom. 13.14.</note> making pro<g ref="char:EOLhyphen"/>vision for the Flesh to fulfil the Lusts thereof; <hi>Rapine, Op<g ref="char:EOLhyphen"/>pression,</hi>
+               <note place="margin">Job 24.10.</note> grinding the Face of the Poor, causing them to go Naked, taking away the Sheaf from the Hungry, keeping back
+<pb n="10" facs="tcp:63270:8"/>Hire of the Labourer,
+<note place="margin">Jam. 5.4.</note> perver<g ref="char:EOLhyphen"/>ting of Judgment; <hi>Defamation speaking evil of Dignities,</hi> slan<g ref="char:EOLhyphen"/>dering the Footsteps of thi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Anointed;
+<note place="margin">Psal. 89.51.</note> making LYES our Refuge; Judgment hath been turned backward, and Ju<g ref="char:EOLhyphen"/>stice hath stood afar off. Truth hath fallen in our Streets,
+<note place="margin">Isa. 59.14.</note> an<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Equity hath not been able to enter. <hi>Discontent with our Con<g ref="char:EOLhyphen"/>dition;</hi> murmuring and repi<g ref="char:EOLhyphen"/>ning against thy good Hand of Providence, even while ou<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Lines have fell to us in a plea<g ref="char:EOLhyphen"/>sant Place, and thou hast given us a goodly Heritage. <hi>Envy at the prosperity of our Neigh<g ref="char:EOLhyphen"/>bours: Covetousness,</hi> removing their Land-marks, seizing on their Inheritance, lading our<g ref="char:EOLhyphen"/>selves with thick Clay, ma<g ref="char:EOLhyphen"/>king Riches our God, and ou<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Hope.</p>
+            <pb n="11" facs="tcp:63270:8"/>
+            <p>Many of these have been the Sins of our Rulers,
+<note place="margin">Lam. 4.13.</note> our Prophets and our Priests.</p>
+            <p>Our Heads have judged for Reward,
+<note place="margin">Micah 3.11.</note> our Priests have taught for hire, our Prophets have di<g ref="char:EOLhyphen"/>vined for Mony, our Teachers have transgressed against thee.</p>
+            <p>Our Prophets have seen vain and foolish Things:
+<note place="margin">Lam. 2.14, &amp;c.</note> They have not discovered to thy People their Iniquities: They have daub'd with untemper'd Mor<g ref="char:EOLhyphen"/>tar: The Priests have propha<g ref="char:EOLhyphen"/>ned holy Things; the Princes have been like Wolves ravening the Prey; the People have used Oppression, and exercised Rob<g ref="char:EOLhyphen"/>bery.</p>
+            <p>For these our Wickednesses which are gone over our Heads,
+<note place="margin">Psal. 38.4.</note> and are a sore Burthen to heavy for us to bear.</p>
+            <pb n="12" facs="tcp:63270:9"/>
+            <p>For these our Transgressions which have been multiplied be<g ref="char:EOLhyphen"/>fore thee,
+<note place="margin">Isa. 59.12.</note> and these our Sins which testifie against us; For these Presumptuous and Crying ones which we have represen<g ref="char:EOLhyphen"/>ted unto thee, and those Secret ones which we have so long strove to conceal from thee that they are hid from our selves, and we cannot call them to remembrance;
+<note place="margin">Jer. 3.25.</note> we lie down in Shame, and Confusion cover<g ref="char:EOLhyphen"/>eth us.</p>
+            <p>For they have separated be<g ref="char:EOLhyphen"/>tween thee and us;
+<note place="margin">Isa. 59 2.</note> they have hid thy Face from us.</p>
+            <p>And the yoke of them is by thy Hand bound upon us;
+<note place="margin">Lam. 1.13, 14.</note> they are wreathed about our Necks.</p>
+         </div>
+         <div n="3" type="section">
+            <pb n="13" facs="tcp:63270:9"/>
+            <head>SECT. III. <hi>Deploration</hi>
+            </head>
+            <div n="1" type="subsection">
+               <head>§. 1. <hi>Of the Publick Calamities of the Nation.</hi>
+               </head>
+               <p>In just Revenge and Punish<g ref="char:EOLhyphen"/>ment of these,
+<note place="margin">Habak. 3.12.</note> Thou hast march'd through the Lands to which we belong in Indigna<g ref="char:EOLhyphen"/>tion, and thresh'd them in thine Anger;</p>
+               <p>Thou hast trod us down in the Wine-press of thy Wrath.
+<note place="margin">Lam. 1.15.</note>
+               </p>
+               <p>Thou hast bent thy Bowe like an Enemy;
+<note place="margin">Lam. 2.3, 4.</note> thou hast stood with thy Right Hand against us, like an Adversary.</p>
+               <p>Thou hast burnt against us like a flaming Fire, which de<g ref="char:EOLhyphen"/>voureth round about.</p>
+               <p>Thou hast broken us down
+<note place="margin">Jer. 14.17.</note>
+                  <pb n="14" facs="tcp:63270:10"/>with a very great Breach, our Breach is like a Sea;</p>
+               <p>Thou hast poured out thy Fury like Fire,
+<note place="margin">Lam. 2.4, 6.</note> and accomplished thine Indignation upon us.</p>
+               <p>In the Indignation of thine Anger, thou hast despised the King and the Priest.</p>
+               <p>The King mourneth,
+<note place="margin">Lam. 5.16.</note> the Crown is fallen from his Head, the Prince is cloath'd with De<g ref="char:EOLhyphen"/>solation.</p>
+               <p>Our Priests and our People sigh,
+<note place="margin">Lam. 1.4. &amp;c.</note> our Virgins are afflicted, our Nobles and our Counsellors sit upon the ground and keep silence, they hang down their Heads.</p>
+               <p>Horror covers,
+<note place="margin">Ezek. 7.18.</note> Shame is upon all Faces.</p>
+               <p>Thou hast fed us with the Bread of Wormwood,
+<note place="margin">Jer. 9.15.</note> and made us drink of the Water of Gall.</p>
+               <pb n="15" facs="tcp:63270:10"/>
+               <p>Thou hast given us (the Peo<g ref="char:EOLhyphen"/>ple of these Lands) a Cup of deadly Wine;
+<note place="margin">Jer. 13.13, 14.</note> Thou hast fill'd the Inhabitants with Drunken<g ref="char:EOLhyphen"/>ness, and dash'd them one a<g ref="char:EOLhyphen"/>gainst another.</p>
+               <p>The Earth on which we dwell is dissolv'd:
+<note place="margin">Isa. 24.19.</note> it is moved exceed<g ref="char:EOLhyphen"/>ingly, it reels to and fro like a drunken Man.</p>
+               <p>And with the aggravation of this our Calamity,
+<note place="margin">Psal. 44.13.</note> thou hast made us a Scorn to our Neigh<g ref="char:EOLhyphen"/>bours, a Reproach to them that are round about us.</p>
+               <p>They clap their Hands,
+<note place="margin">Lam. 2.15.</note> they hiss and wag their Heads at us; our Enemies open their Mouth, and gnash their Teeth against us.</p>
+            </div>
+            <div n="2" type="subsection">
+               <pb n="16" facs="tcp:63270:11"/>
+               <head>§. 2. <hi>Of the Calamities of the Church.</hi>
+               </head>
+               <p>Thou hast also cover'd the Church as well as the Kingdom with a Cloud in the day of thine Anger:
+<note place="margin">Lam. 2.1.</note> Thou hast cover'd it in thine Anger.</p>
+               <p>Thou hast cast down her Beauty from Heaven to Earth.</p>
+               <p>Thou hast cast off thine Al<g ref="char:EOLhyphen"/>tar,
+<note place="margin">Lam. 2.6, 7.</note> and abhorred thy San<g ref="char:EOLhyphen"/>ctuary:</p>
+               <p>Thou hast taken away thy Tabernacle, thou hast desolated the Places of Assembly.</p>
+               <p>Thy holy Mountain of <hi>Sion</hi> is desolated,
+<note place="margin">Lam. 5.18.</note> the Foxes walk up<g ref="char:EOLhyphen"/>on it.</p>
+               <p>Thy <hi>Jernsalem,</hi> once the Joy and Praise of the whole Earth, now sits in the Dust.</p>
+               <p>She is become a Byword and
+<pb n="17" facs="tcp:63270:11"/>a Proverb of Disgrace to her open Enemies; and the Grief, of her Children, seeing her in this despis'd and scorn'd Estate.</p>
+               <p>And yet for all this thine An<g ref="char:EOLhyphen"/>ger is not turn'd away from us,
+<note place="margin">Isa. 5.25.</note> O Lord, but thy hand is stretch<g ref="char:EOLhyphen"/>ed out still.</p>
+               <p>Reflecting on these thy Judg<g ref="char:EOLhyphen"/>ments, and our Sins which brought them on us, (our Pri<g ref="char:EOLhyphen"/>vate and Publick, our Particular and National Sins) we thy Ser<g ref="char:EOLhyphen"/>vants visit thee,
+<note place="margin">Isa. 26.16.</note> and pour out a Prayer unto thee, desiring thee, who once madest the hard Rock become a springing Well, so to soften our stony hearts with the sense of our Punishment, and that which merited it, that our eyes may weep sore, run down with tears for the greatness of the Iniquity and Calamity of our People; We dare not say thine,
+<pb n="18" facs="tcp:63270:12"/>since we seem wholly to have forgotten thee, and thou to have forsaken us; yea, run down with tears day and night,
+<note place="margin">Jer. 9.1.</note> like a River, because thou hast taken us up, and cast us down, that we might pour out our hearts like Water for the Desolation of the Lord's Sanctuary.</p>
+            </div>
+         </div>
+         <div n="4" type="section">
+            <pb n="19" facs="tcp:63270:12"/>
+            <head>SECT. IV. <hi>Confession</hi>
+            </head>
+            <div n="1" type="subsection">
+               <head>§. 1. <hi>Of God's Justice.</hi>
+               </head>
+               <p>BUT amidst the bitterness of our Souls for what hath befall'n us, our Church and Na<g ref="char:EOLhyphen"/>tion, we give Glory unto thee, confessing that thou art Just in bringing it, and that all this is come upon us for our evil Deeds and great Transgressions.
+<note place="margin">Psal. 119.137, &amp;c.</note> Righ<g ref="char:EOLhyphen"/>teous art thou, O Lord, and Just is thy Judgment; Of very Faithfulness thou hast caused us to be troubled.</p>
+            </div>
+            <div n="2" type="subsection">
+               <head>§. 2. <hi>Of God's Mercy.</hi>
+               </head>
+               <p>And with the glory of thy Justice, we give thee that of thy
+<pb n="20" facs="tcp:63270:13"/>Mercy likewise:
+<note place="margin">Exod. 34.6.</note> Thou art a gracious God; and not only slow to Anger, not willingly af<g ref="char:EOLhyphen"/>flicting, nor grieving the Chil<g ref="char:EOLhyphen"/>dren of Men;
+<note place="margin">Lam. 3.33.</note> but art withal of great kindness, and repentest thee of the Evil.</p>
+               <p>Though thou causest Grief,
+<note place="margin">Lam. 3.32.</note> thou wilt have Compassion ac<g ref="char:EOLhyphen"/>cording to the multitude of thy Mercies.</p>
+               <p>Thy Mercy rejoiceth against,
+<note place="margin">Jam. 2.13.</note> and triumpheth o're thy Judg<g ref="char:EOLhyphen"/>ment.</p>
+               <p>Thou retainest not thine An<g ref="char:EOLhyphen"/>ger for ever,
+<note place="margin">Micah 7.18.</note> because thou de<g ref="char:EOLhyphen"/>lightest in Mercy.</p>
+               <p>Thou art abundant in Good<g ref="char:EOLhyphen"/>ness,
+<note place="margin">Exod. 34.6, 7.</note> and Truth, keeping Mercy for Thousands, forgiving Ini<g ref="char:EOLhyphen"/>quity, Transgression, and Sin.</p>
+               <p>And who is a God like unto thee,
+<note place="margin">Micah 7.18.</note> who so pardoneth Iniqui<g ref="char:EOLhyphen"/>ty, and passeth by Transgres<g ref="char:EOLhyphen"/>sion?</p>
+               <pb n="21" facs="tcp:63270:13"/>
+               <p>To thee, O Lord our God,
+<note place="margin">Dan. 9.9.</note> be<g ref="char:EOLhyphen"/>long Mercies and Forgiveness, though we have rebelled against thee; neither have we obey'd thy voice to walk in thy Laws which thou hast set before us.</p>
+               <p>It is of these thy Mercies,
+<note place="margin">Lam. 3.22.</note> O Lord, that we are not utterly consumed, because thy Compas<g ref="char:EOLhyphen"/>sions fail not.</p>
+            </div>
+         </div>
+         <div n="5" type="section">
+            <head>SECT. V. <hi>Supplication.</hi>
+            </head>
+            <p>IN firm belief of them, and full confidence, that thou wilt turn again, and have Com<g ref="char:EOLhyphen"/>passion on us, while we are be<g ref="char:EOLhyphen"/>come Penitents, and Suppli<g ref="char:EOLhyphen"/>cants; We offer up at present unto thee our most earuest Sup<g ref="char:EOLhyphen"/>plications in the behalf of our selves here assembled before
+<pb n="22" facs="tcp:63270:14"/>thee, and all the Inhabitants of these sinful Lands to which we belong;</p>
+            <p>O let not the Lord of Hea<g ref="char:EOLhyphen"/>ven and Earth be angry,
+<note place="margin">Gen. 18.30.</note> that we who are but Dust and Ashes, yea sinful Dust and Ashes, should speak unto thee.</p>
+            <p>For shall our Sins cry for Vengeance, and shall not we cry for Pardon?</p>
+            <p>Have they brought down heavy Judgments upon us, and shall not we entreat thee to set those far out of thy sight, and to remove these?</p>
+            <p>Remember not, O Lord, our Sins; neither the Sins of our Forefathers, nor the Sins of us their rebellious Children:
+<note place="margin">Psal. 25.7.</note> But according to the greatness of thy Mercies, think thou upon us for thy goodness sake.</p>
+            <p>O our God, the Mighty, the
+<pb n="23" facs="tcp:63270:14"/>Terrible One,
+<note place="margin">Dan. 9 4.</note> but yet withal a God, who keepest Covenant of Mercy; let not all the Trouble seem little before thee, which hath come upon our King, our Princes, our Pastors, our Pro<g ref="char:EOLhyphen"/>phets, and on all thy People.</p>
+            <p>O do not despise, and utterly abhor us, for thy Mercies sake:
+<note place="margin">Psal. 38.1.</note> But if thou shalt see it fit to correct us further for our mani<g ref="char:EOLhyphen"/>fold Transgressions;
+<note place="margin">Jer. 10.24.</note> O rebuke us not in thine Anger, neither chasten us in thy heavy Displea<g ref="char:EOLhyphen"/>sure, correct us, but with judg<g ref="char:EOLhyphen"/>ment,
+<note place="margin">Hab. 3.2.</note> lest thou bring us to No<g ref="char:EOLhyphen"/>thing. O Lord, in Wrath, re<g ref="char:EOLhyphen"/>member Mercy.</p>
+            <p>Remember thy Mercies,
+<note place="margin">Psal. 25.6.</note> and thy Loving-kindnesses, which have been ever of old.</p>
+            <p>Though we have greatly sin<g ref="char:EOLhyphen"/>ned against, and displeased thee, and have deserved to receive
+<pb n="24" facs="tcp:63270:15"/>from thy hands more than what we suffer; yet do thou, who art our Father, and our Re<g ref="char:EOLhyphen"/>deemer, Return, and look upon us with the yearning Bowels, and melting eye of a Father, and a Redeemer.</p>
+            <p>Thou art our Father;
+<note place="margin">Isa. 64.8, 9.</note> we are the Clay, and thou art our Pot<g ref="char:EOLhyphen"/>ter; we are all the work of thine Hand:</p>
+            <p>Be not wroth therefore very sore, neither remember Iniquity for ever.</p>
+            <p>O Lord,
+<note place="margin">Jer. 14 17.</note> though our Iniqui<g ref="char:EOLhyphen"/>ties testify against us, yet do thou it for thy Names sake, for thy great Names sake, which thou proclaimedst before thy Servant <hi>Moses,</hi>
+               <note place="margin">Exod. 34.6.</note> the Lord God, Merciful and Gracious, Long<g ref="char:EOLhyphen"/>suffering, and abundant in Good<g ref="char:EOLhyphen"/>ness and in Truth, keeping Mer<g ref="char:EOLhyphen"/>cy unto Thousands.</p>
+            <pb n="25" facs="tcp:63270:15"/>
+            <p>Though our Iniquities pre<g ref="char:EOLhyphen"/>vail against us,
+<note place="margin">Psal. 65.3.</note> yet be thou mer<g ref="char:EOLhyphen"/>ciful unto our Sins.</p>
+            <p>Forgive the Iniquities of thy People, and cover their Sins.
+<note place="margin">Psal. 32.1.</note>
+            </p>
+            <p>Look upon their Afflictions,
+<note place="margin">Psal. 25.18.</note> and forgive them their Sins.</p>
+            <p>O Lord, long suffering, and of great mercy, forgiving Iniqui<g ref="char:EOLhyphen"/>ty and Transgression, as well as by no means clearing the Guilty; Pardon, we beseech thee, the Iniquity of this People accord<g ref="char:EOLhyphen"/>ing unto the greatness of thy Mercy, and as thou hast forgiven them until now.</p>
+            <p>Turn us, O our Saviour, and let thine Anger cease from us; Turn us from the Sins we have already committed, by an un<g ref="char:EOLhyphen"/>feigned bitter Sorrow for them; and from those we may be in danger of committing, by an utter loathing and abhorrence
+<pb n="26" facs="tcp:63270:16"/>of them: And turn us unto thy Self by a holy Love, and fear of thy great Name.</p>
+            <p>Turn thou us, O Lord, from the Evil of our Ways, and the Violence that is in our Hands: And then we may be sure since thou thy self hath told us so, that thou wilt turn and repent;
+<note place="margin">Jon. 3.9.</note> Thou wilt turn away from thy fierce Anger, and we shall not perish.</p>
+            <p>Turn us, O God of all Puri<g ref="char:EOLhyphen"/>ty, who canst not behold Evil, nor look on the least Iniquity, from all that is displeasing in thine eyes, to all which is gra<g ref="char:EOLhyphen"/>cious in thy sight.</p>
+            <p>Turn thou us unto thee,
+<note place="margin">Lam. 5.21.</note> O Lord, and so we shall be turned;</p>
+            <p>Then we shall by thy Judgments which have been and are abroad on the Earth,
+<note place="margin">Isa. 26.10.</note> learn the Righ<g ref="char:EOLhyphen"/>teousness,
+<pb n="27" facs="tcp:63270:16"/>they were designed to teach us; we shall search and try out our Ways, and turn unto the Lord; we shall lift up pure hearts and hands to our God which is in Heaven.</p>
+            <p>And when thou hast thus turned and instructed us, turn thou again unto us, O Lord, at the last, and be gracious unto thy Servants.</p>
+            <p>O satisfie us with thy Mer<g ref="char:EOLhyphen"/>cy, and that soon.
+<note place="margin">Psal. 90.13, 14.</note>
+            </p>
+            <p>Be not angry with us for ever, neither draw out thy Wrath to all Generations.</p>
+            <p>O remember the Affliction thou hast afflicted us with:
+<note place="margin">Lam. 3.19.</note> and have Compassion on us, and do us good.</p>
+            <p>Remember us, O Lord,
+<note place="margin">Psal. 106.4.</note> ac<g ref="char:EOLhyphen"/>cording to the Favour thou bearest unto thy People; O visit us with thy Salvation.</p>
+            <pb n="28" facs="tcp:63270:17"/>
+            <p>Comfort us again now after the time,
+<note place="margin">Psal. 90.15.</note> that thou hast plagued us, and for the Years, wherein we have suffer'd Adversity.</p>
+            <p>O Lord,
+<note place="margin">Habak. 3.2.</note> revive thy work in the midst of the Years: Raise us up out of a state of Misery, which resembleth Death: in the midst of these Years, make known thy Power, and thy Goodness,</p>
+            <p>What thou canst, and what thou wilt do for us.</p>
+            <p>O thou who hast been justly displeased at us,
+<note place="margin">Isa. 51.22.</note> and in thine An<g ref="char:EOLhyphen"/>ger moved the Land, and divi<g ref="char:EOLhyphen"/>ded it, heal the Sores thereof for it shaketh; Take out of her hand the Cup of Trembling, even the Cup of the Dregs of thy Fury, that she no more drink it again.</p>
+            <p>O deliver us from all our Trouble and Oppression,
+<note place="margin">Psal. 108.</note> for we
+<pb n="29" facs="tcp:63270:17"/>do not trust in the Arm of Flesh:
+<note place="margin">1 Sam. 2.9.</note> Vain is the help of Man, and by strength shall no Man pre<g ref="char:EOLhyphen"/>vail:</p>
+            <p>But our Souls trust in thee,
+<note place="margin">Psal. 57.1.</note> and under the shadow of thy wings shall be our Refuge, until this Tyranny be overpass'd</p>
+            <p>O Lord,
+<note place="margin">Isa. 52.10.</note> make bare thy holy Arm, and let us see the Salva<g ref="char:EOLhyphen"/>tion of our God.</p>
+            <p>Awake, awake,
+<note place="margin">Isa. 51.9.</note> put on strength O Arm of the Lord. Awake up as in the ancient Days.</p>
+         </div>
+         <div n="6" type="section">
+            <pb n="30" facs="tcp:63270:18"/>
+            <head>SECT. VI. <hi>Expostulation.</hi>
+            </head>
+            <p>O Lord,
+<note place="margin">Zech. 1.12.</note> how long wilt thou not have mercy on the People of these Nations, against whom thou hast had Indigna<g ref="char:EOLhyphen"/>tion?</p>
+            <p>How long shall the Land mourn for the wickedness of them that dwell therein?</p>
+            <p>O Lord,
+<note place="margin">Hab. 1.2.</note> how long shall we cry unto thee of Violence, and thou wilt not hear? even unto thee of Violence, and thou wilt not save?</p>
+            <p>Why dost thou shew us Im<g ref="char:EOLhyphen"/>piety,
+<note place="margin">Habak. 1.3.</note> and cause us to behold Grievance? for Spoiling and Op<g ref="char:EOLhyphen"/>pression are before us.</p>
+            <p>Why hast thou smitten us,
+<note place="margin">Jer. 14.19.</note> and there is no healing for us? Why
+<pb n="31" facs="tcp:63270:18"/>do we look for Peace, and there is no Good? for the time of Healing, and behold Trouble?</p>
+            <p>Why do we wait for Light,
+<note place="margin">Isa. 59.9. &amp; 11.</note> but behold Obscurity? Why do we look for Salvation, but it is far from us?</p>
+            <p>Why is our Pain perpetual,
+<note place="margin">Jer. 15.18</note> and our Wound incurable?</p>
+            <p>O God,
+<note place="margin">Psal. 74.1.</note> wherefore art thou absent from us so long? And why is thy Wrath so hot against the Sheep of thy Pasture?</p>
+            <p>How long wilt thou be an<g ref="char:EOLhyphen"/>gry with thy People that pray<g ref="char:EOLhyphen"/>eth?
+<note place="margin">Psal. 80.4.</note>
+            </p>
+            <p>How long wilt thou hide thy Face from us, for ever?
+<note place="margin">Psal. 79.5.</note>
+            </p>
+            <p>Shall thy Jealousie burn like Fire for ever?</p>
+            <p>Wilt thou utterly reject us? Will thy Soul loath us?</p>
+            <p>Wherefore hidest thou thy Face,
+<note place="margin">Psal 44.24.</note> and forgettest our Affli<g ref="char:EOLhyphen"/>ction and Trouble?</p>
+            <pb n="32" facs="tcp:63270:19"/>
+            <p>O thou our Hope and Saviour in the time of Trouble,
+<note place="margin">Jer. 14.8.</note> why shouldst thou be as a Stranger in our Land, or as a wayfaring Man, that turneth aside to tar<g ref="char:EOLhyphen"/>ry for a Night? No more con<g ref="char:EOLhyphen"/>cern'd for our Welfare, than Tra<g ref="char:EOLhyphen"/>vellers are for those places thro' which they pass?</p>
+            <p>Why shouldst thou be as a Man astonied, quite tired out? as a mighty Man that cannot help, or whose assistance falls short of their Needs, he comes to succor?</p>
+            <p>Where is thy Zeal and thy Strength,
+<note place="margin">Isa. 63.15.</note> the sounding of thy Bowels, and thy Mercy towards us? Where are thy former lo<g ref="char:EOLhyphen"/>ving Kindnesses, are they re<g ref="char:EOLhyphen"/>strain'd?</p>
+            <p>Righteous art thou,
+<note place="margin">Jer. 12.1.</note> O Lord, when we plead with thee, yet let us talk with thee of thy Judg<g ref="char:EOLhyphen"/>ments;
+<pb n="33" facs="tcp:63270:19"/>Wherefore doth the way of the Wicked prosper? Wherefore are they all happy that deal very treacherously?</p>
+            <p>Wherefore lookest thou up<g ref="char:EOLhyphen"/>on them that deal treache<g ref="char:EOLhyphen"/>rously?
+<note place="margin">Habak. 1.13.</note>
+            </p>
+            <p>At length, O Lord,
+<note place="margin">Isa. 63.15.</note> look down from Heaven, the habitation of thy Holiness, and thy Glory, and behold us with an Eye of Pity.</p>
+            <p>Awake, why sleepest thou,
+<note place="margin">Psal. 44.23.</note> O Lord? Arise, and be not absent from us for ever.</p>
+            <p>Arise to our help; and re<g ref="char:EOLhyphen"/>deem us for thy Mercies sake.</p>
+            <p>Arise thou Judge of the World,
+<note place="margin">Psal. 94.2.</note> and reward the Proud after their deserving.</p>
+            <p>Lord,
+<note place="margin">Ver. 3.</note> how long shall the un<g ref="char:EOLhyphen"/>godly, how long shall the un<g ref="char:EOLhyphen"/>godly triumph?</p>
+            <p>How long shall they speak so
+<note place="margin">Ver. 4.</note>
+               <pb n="34" facs="tcp:63270:20"/>disdainfully, and make such proud boasting?</p>
+            <p>Let them talk no more so proudly,
+<note place="margin">1 Sam. 2.3.</note> let not Arrogancy come out of their mouths.</p>
+            <p>O Lord God,
+<note place="margin">Psal. 94.1.</note> to whom Ven<g ref="char:EOLhyphen"/>geance belongeth: O God to whom Vengeance belongeth, shew thy self.</p>
+         </div>
+         <div n="7" type="section">
+            <pb n="35" facs="tcp:63270:20"/>
+            <head>SECT. VII. <hi>Intercession.</hi>
+            </head>
+            <p>O Lord God of Hosts,
+<note place="margin">Isa. 37.16, 17.</note> thou that art God, even thou alone, of all the Kingdoms of the Earth, incline thine Ear, and hear; open thine Eye, O Lord, and see, and hear all the words that they have despightfully spoken to reproach thee the li<g ref="char:EOLhyphen"/>ving God.</p>
+            <p>Surely, O Lord,
+<note place="margin">Hos. 6.1.</note> though thou hast torn us, thou wilt heal us: Though thou hast smitten us, thou wilt bind us up.</p>
+            <div n="1" type="subsection">
+               <head>§. 1. <hi>For the Church.</hi>
+               </head>
+               <p>But especially, O Lord,
+<note place="margin">Dan. 9.16.</note> ac<g ref="char:EOLhyphen"/>cording to all thy Righteous<g ref="char:EOLhyphen"/>ness, let thine Anger and thy
+<pb n="36" facs="tcp:63270:21"/>Fury be turned away from <hi>Je<g ref="char:EOLhyphen"/>rusalem</hi> thy holy Church, this in particular, and cause thy Face to shine upon thy Sanctua<g ref="char:EOLhyphen"/>ry which is desolate for the Lord's sake.</p>
+               <p>O thou who hast forsaken her,
+<note place="margin">Isa. 54.7, 8.</note> with great mercies gather her.</p>
+               <p>O thou who hast hid thy Face from her, with everlasting kindness have mercy on her.</p>
+               <p>O be favourable and gracious unto <hi>Sion,</hi>
+                  <note place="margin">Psal. 51.18.</note> build thou the walls of <hi>Jerusaler.</hi>
+               </p>
+               <p>Arise and have mercy upon <hi>Zion;</hi>
+                  <note place="margin">Psal. 102.13.46.4.</note> for it is time, that thou have mercy upon her, yea, the time is come. Let it pity thee to see her in the dust.</p>
+               <p>Though she be fall'n,
+<note place="margin">Micah 7.8.</note> yet do thou raise her up; though she sit in darkness, yet be thou her light, that her Enemies may not rejoice against her.</p>
+               <pb n="37" facs="tcp:63270:21"/>
+               <p>And then let thy Salvation be for Walls and Bulwarks unto her.
+<note place="margin">Isa. 26.1.</note>
+               </p>
+               <p>Lay her Stones with fair Co<g ref="char:EOLhyphen"/>lours,
+<note place="margin">Isa. 54.11, 12.</note> and her <gap reason="illegible" resp="#murp" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>dations with Saphires: Ma<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ndows of Agat, her Gates of Carbuncle, and all her Borders of pleasant Stones.</p>
+               <p>And let no Weapon form'd against her prosper.
+<note place="margin">Isa. 54 17.</note>
+               </p>
+               <p>Let <hi>Zion</hi> awake,
+<note place="margin">Isa. 52.1, 2.</note> and put on strength; let <hi>Jerusalem</hi> shake her self from the Dust, and put on beautiful Garments.</p>
+               <p>Think upon thy Congrega<g ref="char:EOLhyphen"/>tion,
+<note place="margin">Psal. 74 2.</note> which thou hast purchased and redeemed of old, and Mount <hi>Zion,</hi> wherein thou hast dwelt.</p>
+               <p>Comfort her,
+<note place="margin">Isa. 51.3.</note> comfort her waste Places; make her Wilder<g ref="char:EOLhyphen"/>ness like <hi>Eden,</hi> and her Desert like the Garden of the Lord.</p>
+               <p>Return, we beseech thee, O
+<pb n="38" facs="tcp:63270:22"/>Lord God of Hosts,
+<note place="margin">Psal. 80.14, 15.</note> look down from Heaven, and behold, and visit this thy Vine; and the Vineyard which thy right hand hath planted.</p>
+               <p>O give not thine heritage over into the hands of her Enemies:
+<note place="margin">Jer. 12.7.</note> O suffer not thy Vine<g ref="char:EOLhyphen"/>yard to be destroyed, thy Por<g ref="char:EOLhyphen"/>tion to be trod under foot, thy pleasant Portion to be a desolate Wilderness.</p>
+               <p>O be merciful unto <hi>Jerusa<g ref="char:EOLhyphen"/>lem,</hi>
+                  <note place="margin">Eccles. 36.14, 15, 16.</note> the place of thy Rest.</p>
+               <p>Fill <hi>Zion</hi> with thy unspeak<g ref="char:EOLhyphen"/>able Oracles.</p>
+            </div>
+            <div n="2" type="subsection">
+               <head>§. 2. <hi>For the Pastors of the Church.</hi>
+               </head>
+               <p>Raise up Prophets to her in thy Name, and let them be found faithful:</p>
+               <p>Such as may not follow their
+<pb n="39" facs="tcp:63270:22"/>own Spirit,
+<note place="margin">Jer. 23.16.</note> nor speak a Vision out of their own hearts, sedu<g ref="char:EOLhyphen"/>cing the People, and saying Peace, when there is no Peace.</p>
+               <p>As may not pollute thee a<g ref="char:EOLhyphen"/>mong them for handfuls of Bar<g ref="char:EOLhyphen"/>ley, and pieces of Bread,
+<note place="margin">Ezek. 13.19.</note> slaying the Souls that should not die: And saving alive the Souls that should not live, making the hearts of the Righteous sad, and strengthning the hands of the wicked.</p>
+               <p>O give her such Pastors, as may not feed themselves (eating the fat) but thy Flock;
+<note place="margin">Ezek. 34.3. &amp; 4.</note> who may strengthen the Diseas'd, heal the Sick, bind up the Bro<g ref="char:EOLhyphen"/>ken, seek that which is lost, and bring back that which is driven away; and may lay down their Lives for their Sheep, if occasion requires.</p>
+               <p>Let her Priests be cloathed
+<pb n="40" facs="tcp:63270:23"/>with Righteousness,
+<note place="margin">Mal. 2.7.</note> their lips preserve knowledge, and the People seek it at their mouths.</p>
+               <p>Purify,
+<note place="margin">Mal. 3.3.</note> and purge them as Gold and Silver, that they may offer unto thee an offering of Righteousness.</p>
+               <p>Give those holy ones thy Thummim and thy Urim;
+<note place="margin">Deut. 33.8.</note> send fort thy Truth and thy Light into their hearts, whereby they may be able to teach thy People thy Judgment and thy Law.</p>
+               <p>Set such Watchmen upon her Towers and Bulwarks as seeing thy Sword,
+<note place="margin">Ezek. 33.6. &amp;c.</note> the Sword of thy Judgments drawn, may blow the Trumpet, and warn thy People; such who at all times may cry aloud, and shew them their transgressions; to the end that they may depart from them, and fear, and do no more wickedly.</p>
+               <pb n="41" facs="tcp:63270:23"/>
+               <p>Appoint such Ministers over thy Church,
+<note place="margin">1 Tim. 4.16.</note> who taking heed to their Lives, and Doctrine, (the Exemplariness of the one, and Soundness of the other) may bring many to Righteousness; and save others who shall see their good Conversation, and hear their sound words, as well as themselves.</p>
+               <p>Such, who may never square their Consciences according to the corrupt, and changeable Models of the Times, to serve an Interest; nor smooth their Tongues, and make them pli<g ref="char:EOLhyphen"/>ant to please wanton, and itch<g ref="char:EOLhyphen"/>ing Ears; but may live in a con<g ref="char:EOLhyphen"/>stant practice of those great Les<g ref="char:EOLhyphen"/>sons of Denying themselves, and taking up the Cross; stand al<g ref="char:EOLhyphen"/>ways prepared in a firm resolu<g ref="char:EOLhyphen"/>tion of mind, to follow the great Shepherd of the Flock and
+<pb n="42" facs="tcp:63270:24"/>Bishop of Souls to Mount <hi>Cal<g ref="char:EOLhyphen"/>vary,</hi> to die for the Testimony of Jesus, as he did for them.</p>
+               <p>Being thus disposed to suffer, animate them continually with thy good Spirit, one of whose seven-fold Gifts is Courage that being raised above the Threats of the Rulers, and Rage of the People, they may with all bold<g ref="char:EOLhyphen"/>ness speak thy Word,
+<note place="margin">Acts 4.25, 29.</note> sharply reprove Vice without respect to Persons, and so by their zealous Labours turn the hearts of the Fathers together with their Children to each other,
+<note place="margin">Mal. 4.6.</note> and both to the wisdom of the Just, as thou mayst not come and smite the Earth with a Curse; a more dreadful one than any it hath hitherto felt.</p>
+            </div>
+            <div n="3" type="subsection">
+               <pb n="43" facs="tcp:63270:24"/>
+               <head>§. 3. <hi>For the KING.</hi>
+               </head>
+               <p>BEhold,
+<note place="margin">Psal. 84.9.</note> O God our Defen<g ref="char:EOLhyphen"/>der, and look upon the Face of thine Anointed.</p>
+               <p>Thou hast cast him off and abhorred,
+<note place="margin">Psal. 89.38.</note> thou hast been wroth with him.</p>
+               <p>Thou hast profaned his Crown by casting it to the ground.
+<note place="margin">Psal. 89.39.</note>
+               </p>
+               <p>Thou hast set up the right hand of his Adversaries,
+<note place="margin">Psal. 89.42.</note> thou hast made all his Enemies to re<g ref="char:EOLhyphen"/>joice.</p>
+               <p>The Troubles of his heart are enlarged;
+<note place="margin">Psal. 25.17.</note> O bring thou him out of all his Troubles.</p>
+               <p>O consider his Trouble,
+<note place="margin">Psal. 31.7.</note> and know his Soul in Adversity.</p>
+               <p>Consider his Adversity, and deliver him: Avenge thou his Cause.</p>
+               <p>O God of Knowledge, by
+<pb n="44" facs="tcp:63270:25"/>whom Actions are weigh'd;
+<note place="margin">1 Sam. 2.3.</note> who judgest the ends of the Earth; Consider the Justice of his Cause.</p>
+               <p>Unto thee he hath made his Solemn Appeal.</p>
+               <p>Deal with him according to the Innocency he hath protested to be in him, with regard to the foul Crimes his Enemies have slanderously charg'd him with.</p>
+               <p>Thou hast seen his Wrong;
+<note place="margin">Lam. 3.59.</note> Judge thou his Cause: Judge him, O God, and plead his Cause against an ungodly and unmer<g ref="char:EOLhyphen"/>ciful Nation.</p>
+               <p>Deliver him from the deceit<g ref="char:EOLhyphen"/>ful and unjust Man.
+<note place="margin">Psal. 43.1.</note>
+               </p>
+               <p>O what great Troubles and Adversities hast thou formerly shew'd him,
+<note place="margin">Psal. 71.20.</note> and yet didst thou turn and refresh him, and broughtest him from the deep of the Earth again.</p>
+               <pb n="45" facs="tcp:63270:25"/>
+               <p>O remember thy loving kind<g ref="char:EOLhyphen"/>ness,
+<note place="margin">Psal. 25.6.</note> and thy mercies that have been ever of old, and work the same Miracle of mercy for him afresh.</p>
+               <p>Thy Righteousness is very high,
+<note place="margin">Psal. 71.19.</note> and great things are they that thou hast done: And that is not minished, nor thy hand shortned, that thou canst not do the same works anew.</p>
+               <p>Thy hand is not shortned,
+<note place="margin">Isa. 59.1.</note> that it cannot save; neither thy Ear heavy, that it will not hear.</p>
+               <p>O prepare thy loving mercy,
+<note place="margin">Psal. 61.7.</note> and thy faithfulness, that they may preserve him.</p>
+               <p>O thou who killest and ma<g ref="char:EOLhyphen"/>kest alive;
+<note place="margin">1 Sam. 2.5, 6.</note> who bringest down to the grave, and bringest up; who makest poor, and makest rich; bringest low, and liftest
+<pb n="46" facs="tcp:63270:26"/>up; lift up his Head again, re<g ref="char:EOLhyphen"/>place him on the Throne, and establish him there, that on his Head, and on the Heads of his Posterity in due order after him the Crown may for ever flou<g ref="char:EOLhyphen"/>rish.</p>
+               <p>Do thou this,
+<note place="margin">1 Chron. 29.11.</note> O Lord, whose is the Greatness, and the Power, and the Glory, and the Victory, and the Majesty.</p>
+               <p>Give strength unto the King,
+<note place="margin">Psal. 21.6.</note> the wholsom strength of thy Right Hand, exalt the Horn of thine Anointed.</p>
+               <p>Be thou the strength,
+<note place="margin">Psal. 28.8.</note> the sa<g ref="char:EOLhyphen"/>saving strength of thine A<g ref="char:EOLhyphen"/>nointed.</p>
+               <p>Be pleased,
+<note place="margin">Psal. 40.13.</note> O Lord, to deli<g ref="char:EOLhyphen"/>ver him; make haste to help him.</p>
+               <p>Be thou his Helper,
+<note place="margin">Psal. 40.17.</note> and De<g ref="char:EOLhyphen"/>liverer; make no long tarrying, O our God.</p>
+               <pb n="47" facs="tcp:63270:26"/>
+               <p>Deliver him from the stri<g ref="char:EOLhyphen"/>vings of the People;
+<note place="margin">Psal. 18.43.</note> let the Sons of Violence be no longer able to oppress him.</p>
+               <p>Send down from Heaven,
+<note place="margin">Psal. 57.3.</note> and save him from them who would swallow him up.</p>
+               <p>Change and soften, if it be thy gracious Will, the hearts of his most obstinate Adversaries, towards him; But if they shall persist to harden them against him, and will not relent, break them in pieces, and out of Hea<g ref="char:EOLhyphen"/>ven thunder upon them.</p>
+               <p>Cast forth thy Lightning,
+<note place="margin">Psal. 144.6.</note> and tear them; shoot out thine Ar<g ref="char:EOLhyphen"/>row, and consume them.</p>
+               <p>Destroy thou them, O God,
+<note place="margin">Psal. 5.10.</note> let them perish through their own imaginations; cast them out in the multitude of their ungodliness, for they have re<g ref="char:EOLhyphen"/>belled against thee.</p>
+               <pb n="48" facs="tcp:63270:27"/>
+               <p>Up Lord,
+<note place="margin">Psal. 17.13.</note> disappoint them, and cast them down.</p>
+               <p>Smite through the loins of them that rise against him,
+<note place="margin">Deut 33.11.</note> and of them that hate him, that they rise not again.</p>
+            </div>
+            <div n="4" type="subsection">
+               <head>§. 4. <hi>For his faithful Subjects.</hi>
+               </head>
+               <p>But do good,
+<note place="margin">Psal. 125.4.</note> O Lord, unto them that are good and true of heart.</p>
+               <p>Help,
+<note place="margin">Psal. 12.1.</note> Lord, for the godly man ceaseth; for the faithful are diminished from among the children of men.</p>
+               <p>For the way of the wicked prospers,
+<note place="margin">Jer. 12 4.</note> and all they are hap<g ref="char:EOLhyphen"/>py that deal very treache<g ref="char:EOLhyphen"/>rously.</p>
+               <pb n="49" facs="tcp:63270:27"/>
+               <p>The Wicked doth compass about the Righteous:
+<note place="margin">Habac. 1.13.</note> He de<g ref="char:EOLhyphen"/>voureth the Man that is more Righteous than he.</p>
+               <p>He among us who departs from Evil, or endeavors so to do,
+<note place="margin">Isa. 59.15.</note> makes himself but a Prey.</p>
+               <p>O let not the Rod of the Wicked come into the Lot of the Righteous,
+<note place="margin">Psal. 125.3.</note> lest the Righ<g ref="char:EOLhyphen"/>teous put forth their hands un<g ref="char:EOLhyphen"/>to wickedness.</p>
+               <p>Let the sighing of the Pri<g ref="char:EOLhyphen"/>soners come before thee,
+<note place="margin">Psal. 79.11.</note> all who are in Bonds for Righteousness sake; according to the greatness of thy Power preserve thou those, that are appointed to die for the testimony of Truth and Justice.</p>
+               <p>Be thou a Refuge, O Lord,
+<note place="margin">Psal. 9.9.</note> un<g ref="char:EOLhyphen"/>to all who are any ways op<g ref="char:EOLhyphen"/>pressed, a Refuge in these times of Trouble.</p>
+               <pb n="50" facs="tcp:63270:28"/>
+               <p>Remember their Trouble,
+<note place="margin">Psal. 41.1.</note> O Lord, and in due time deliver them out of it all.</p>
+               <p>O let not the oppressed go away asham'd:
+<note place="margin">Psal. 74.21.</note> But remember, O Lord, the Reproach of those thy Servants, how they do bear in their Bosoms the Reproach of all the mighty People; where<g ref="char:EOLhyphen"/>with they have reproached them; wherewith they have reproached their adherence to the Cause of thine Anointed.</p>
+               <p>Remember how in this these foolish ones reproach thee:
+<note place="margin">Psal. 74.22.</note> And do thou arise, O God, and plead thine own Cause with them.</p>
+               <p>In thine own proper Season turn away this Reproach from them, and turn it to their glory.</p>
+               <p>In the mean time uphold them with thy free and principal Spi<g ref="char:EOLhyphen"/>rit,
+<pb n="51" facs="tcp:63270:28"/>while for Conscience towards thee they suffer Grief wrong<g ref="char:EOLhyphen"/>fully.</p>
+               <p>Keep them in perpetual peace,
+<note place="margin">Isa. 26.3.</note> and stay their Minds on thee.</p>
+               <p>Assist them in considering that they were call'd unto Suf<g ref="char:EOLhyphen"/>ferings of one kind or other, and that these are inseparably con<g ref="char:EOLhyphen"/>next with Piety, and that the Cross is the very Badge of their Christianity;</p>
+               <p>That the Author and Finisher of their Faith so suffer'd before them to leave them his Exam<g ref="char:EOLhyphen"/>ple,
+<note place="margin">1 Pet. 2.19, 21.</note> that they might follow his steps;</p>
+               <p>That the Captain of their Sal<g ref="char:EOLhyphen"/>vation was perfected through Sufferings,
+<note place="margin">Hebr 2.10</note> to the end he might bring many Sons unto Glo<g ref="char:EOLhyphen"/>ry:</p>
+               <pb n="52" facs="tcp:63270:29"/>
+               <p>And thus looking up to him and his Example,
+<note place="margin">Hebr. 11.</note> let them glory in their Afflictions which are his, and prefer them before all the pleasures of Sin; count his Reproach greater Riches, than the Treasures of the world; and suffering on his account, all Joy.</p>
+               <p>Enable them while they thus regard him as their mark and pattern,
+<note place="margin">Hebr. 12.2, 3.</note> to run the Race which is set before them with patience, even without weariness and fainting, till they have finish'd their course; To fight the good fight of Faith, though it be with resisting unto Blood, that having run and strove lawfully, they may be crown'd.</p>
+               <p>O Lord,
+<note place="margin">Dan. 9.18, 19.</note> incline thine Ear and hear, open thine Eye and see: For we do not present our
+<pb n="53" facs="tcp:63270:29"/>Supplications before thee in behalf of our Selves, our Church, our Pastors, our KING and the People of these Nations, for our own Righteousness; but for thy great Mercies.</p>
+               <p>O Lord hear, O Lord forgive, hearken and do for thine own sake, O our God.</p>
+               <p>Help us,
+<note place="margin">Psal. 79.9.</note> O God of our Sal<g ref="char:EOLhyphen"/>vation, for the glory of thy Name.</p>
+               <p>Behold our Desolations and Misery: And deliver us,
+<note place="margin">Dan. 9. Psal. 79.9.</note> and purge away our Sins for thy Names sake.</p>
+               <p>O Lord,
+<note place="margin">Jer. 14 7.</note> though our Iniquities testify against us; for our Back<g ref="char:EOLhyphen"/>slidings are many, do thou it for thy Names sake.</p>
+               <p>Not unto us, O Lord, not un<g ref="char:EOLhyphen"/>to us, who are most vile and unworthy.</p>
+               <pb n="54" facs="tcp:63270:30"/>
+               <p>But unto thy own great Name give the glory of this Redemption; for thy Mercies, and thy Truths sake.</p>
+               <p>Our Soul hath patiently tar<g ref="char:EOLhyphen"/>ried for thee we have hoped in thy holy Name.
+<note place="margin">Psal. 33.22.</note>
+               </p>
+               <p>Let thy merciful kindness be upon us, like as we do put our trust in thee.</p>
+               <p>We depend upon thy Mer<g ref="char:EOLhyphen"/>cies for the doing of this, O God, which are infinite and everlasting.</p>
+               <p>Upon thy Goodness, which is an inexhaustible Fountain and Store.</p>
+               <p>Upon thy Long-suffering, which is not to be wearied out with our Iniquities, if at any time we turn from them.</p>
+               <p>Upon thy Promises which are without Repentance, are Yea
+<pb n="55" facs="tcp:63270:30"/>and Amen, and stand fast for ever.</p>
+               <p>Upon the satisfaction of thy Beloved Son; whose offering up of himself through the Eternal Spirit, was an All-sufficient A<g ref="char:EOLhyphen"/>tonement for the Sins of the whole World, and therefore of ours.</p>
+               <p>Upon his most powerful Me<g ref="char:EOLhyphen"/>diation and Advocation which he now dischargeth, sitting at the Right Hand of the Throne of thy Majesty; there ever liv<g ref="char:EOLhyphen"/>ing, and ever interceding, and pleading for us.</p>
+               <p>Upon his holy Word, one tittle of which shall never pass away, in which he hath told us, That whatsoever we should ask of thee our Father in his Name, thou wouldst give us.</p>
+               <pb n="56" facs="tcp:63270:31"/>
+               <p>In confidence of all this, we sum up these our imperfect Sup<g ref="char:EOLhyphen"/>plications in his most absolute Form of Prayer; We offer up these our sinful ones in and through his complete Merits to be pardon'd, accepted, and an<g ref="char:EOLhyphen"/>swer'd as it may be best to thee, and may be best for us, saying <hi>Our Father,</hi> &amp;c.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:63270:31"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <head>SECT. I. <hi>Adoration</hi>
+               </head>
+               <item>§. 1. <hi>Of God's Majesty.</hi> Pag. 1</item>
+               <item>§. 2. <hi>Of God's Justice.</hi> Pag. 2</item>
+               <item>§. 3. <hi>Of God's Mercy.</hi> Pag. 3</item>
+            </list>
+            <list>
+               <head>SECT. II. <hi>Confession of Sins.</hi>
+               </head>
+               <item>Pag. 5.</item>
+            </list>
+            <pb facs="tcp:63270:32"/>
+            <list>
+               <head>SECT. III. <hi>Deploration</hi>
+               </head>
+               <item>§. 1. <hi>Of the Publick Calami<g ref="char:EOLhyphen"/>ties of the Nation.</hi> Pag. 13</item>
+               <item>§. 2. <hi>Of the Calamities of the Church.</hi> Pag. 16</item>
+            </list>
+            <list>
+               <head>SECT. IV. <hi>Confession</hi>
+               </head>
+               <item>§. 1. <hi>Of God's Justice.</hi> Pag. 19</item>
+               <item>§. 2. <hi>Of God's Mercy.</hi> ib.</item>
+            </list>
+            <list>
+               <head>SECT. V. <hi>Supplication.</hi>
+               </head>
+               <item>Pag. 21</item>
+            </list>
+            <pb facs="tcp:63270:32"/>
+            <list>
+               <head>SECT. VI. <hi>Expostulation.</hi>
+               </head>
+               <item>Pag. 30</item>
+            </list>
+            <list>
+               <head>SECT. VII. <hi>Intercession</hi>
+               </head>
+               <item>§. 1. <hi>For the Church.</hi> Pag. 35</item>
+               <item>§. 2. <hi>For the Pastors of the Church.</hi> Pag. 38</item>
+               <item>§. 3. <hi>For the KING.</hi> Pag. 43</item>
+               <item>§. 4. <hi>For his faithful Sub<g ref="char:EOLhyphen"/>jects.</hi> Pag. 48</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
